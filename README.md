@@ -1,8 +1,15 @@
 ## Ciudad
 
-Ciudad es una plataforma creada con el fin de ofrecer un servio a la comunidad, donde las personas y comercios pueden publicar sus productos o servicios que ofrecen,
-con el fin de llegar a mas personas y poder impulsar su emprendimiento.
+Plataforma de Promoción Comunitaria de Productos y Servicios
 
-Este proyecto surgue a mediados del 2020 como una sulucion en la cuarentena para que las personas/comercios tengan un lugar dedicado para ofrecer sus productos o servicios en la ciudad de Jardin America.
+Ciudad es una plataforma digital desarrollada con el propósito de brindar un servicio útil a la comunidad, permitiendo que tanto personas como comercios puedan publicar los productos o servicios que ofrecen. Su principal objetivo es ayudar a emprendedores y pequeños negocios a aumentar su visibilidad y llegar a más personas dentro de su entorno local.
 
-Tecnologias usadas: Laravel, Vue, Bootstrap, MySQL.
+El proyecto nació a mediados del año 2020, en plena etapa de cuarentena, como una respuesta a la necesidad urgente de contar con un espacio online donde vecinos y comerciantes pudieran seguir ofreciendo sus productos y mantener activos sus emprendimientos. La ciudad de Jardín América fue el punto de partida, actuando como comunidad piloto de esta iniciativa.
+
+La plataforma permite la carga sencilla de publicaciones, categorización de productos/servicios y visualización por parte de potenciales clientes. Con una interfaz amigable y adaptable, se convierte en una herramienta accesible para usuarios de distintos niveles técnicos.
+
+Tecnologías utilizadas:
+    - Laravel (backend robusto y seguro)
+    - Vue.js (interfaz dinámica e interactiva)
+    - Bootstrap (diseño responsive y moderno)
+    - MySQL (gestión de base de datos eficiente)
